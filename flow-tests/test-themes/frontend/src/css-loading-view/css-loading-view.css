@@ -1,0 +1,5 @@
+/* This file is for testing CSS loading by `@CssImport` */
+
+p.css-import {
+    color: rgba(255, 0, 0, 1);
+}
